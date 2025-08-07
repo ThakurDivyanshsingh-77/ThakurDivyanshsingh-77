@@ -52,6 +52,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakurdivyanshsingh-77&label=Profile%20views&color=0e75b6&style=flat" alt="thakurdivyanshsingh-77" /> </p>
 
