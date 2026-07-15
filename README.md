@@ -148,7 +148,7 @@ const divyansh: Developer = {
 
 > 🔧 Replace repo names below with your actual project repositories!
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=divyanshsingh&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc)](https://github.com/divyanshsingh/your-repo-1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=divyanshsingh&repo=your-repo-1&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc)](https://github.com/ThakurDivyanshsingh-77/CodeMind-AI-code-reviews-and-bug-finder-)
 &nbsp;&nbsp;
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=divyanshsingh&repo=your-repo-2&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&icon_color=c084fc)](https://github.com/divyanshsingh/your-repo-2)
 
