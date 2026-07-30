@@ -221,3 +221,5 @@ Tech lead (informally) for **Vardhman Industries** — glass & door hardware, Va
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:05070D,50:0A0F1F,100:05070D&height=100&section=footer"/>
 
 </div>
+
+
