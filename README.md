@@ -4,23 +4,23 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:05070D,50:0A0F1F,100:05070D&height=260&section=header&text=DIVYANSH%20SINGH&fontSize=64&fontColor=D4AF37&fontAlignY=45&animation=fadeIn&desc=full-stack%20developer%20%E2%80%94%20crafting%20software%20that%20feels%20premium&descAlignY=65&descSize=17&descColor=8892A6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0A0F1F,100:05070D&height=280&section=header&text=DIVYANSH%20SINGH&fontSize=66&fontColor=D4AF37&fontAlignY=42&animation=fadeIn&desc=full-stack%20developer%20%E2%80%94%20crafting%20software%20that%20feels%20premium&descAlignY=62&descSize=17&descColor=8892A6"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=3200&pause=900&color=D4AF37&background=00000000&center=true&vCenter=true&width=780&height=45&lines=%E2%80%9CDesign+is+not+decoration.+It's+decision-making.%E2%80%9D;Building+CodeMind+%E2%80%94+AI+that+reviews+code+like+a+senior+dev;Building+CareConnect+Suite+%E2%80%94+healthcare%2C+engineered+right;1st+Place+%E2%80%94+NextGen+Techathon+2026" alt="tagline"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-05070D?style=flat-square&labelColor=D4AF37"/>
-<img src="https://komarev.com/ghpvc/?username=ThakurDivyanshsingh-77&style=flat-square&color=D4AF37&labelColor=05070D&label=VISITORS"/>
-<img src="https://img.shields.io/github/followers/ThakurDivyanshsingh-77?style=flat-square&color=D4AF37&labelColor=05070D&label=FOLLOWERS"/>
-<img src="https://img.shields.io/badge/BASED%20IN-VAPI%2C%20GUJARAT%20🇮🇳-05070D?style=flat-square&labelColor=D4AF37&color=05070D"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-05070D?style=for-the-badge&labelColor=D4AF37"/>
+<img src="https://komarev.com/ghpvc/?username=ThakurDivyanshsingh-77&style=for-the-badge&color=D4AF37&labelColor=05070D&label=VISITORS"/>
+<img src="https://img.shields.io/github/followers/ThakurDivyanshsingh-77?style=for-the-badge&color=D4AF37&labelColor=05070D&label=FOLLOWERS"/>
+<img src="https://img.shields.io/badge/BASED%20IN-GUJARAT%2C%20INDIA%20🇮🇳-05070D?style=for-the-badge&labelColor=D4AF37&color=05070D"/>
 
 </div>
 
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
 </p>
 
 <br>
@@ -33,9 +33,9 @@
 
 I'm a **Full Stack Developer** and **BCA student**, currently building two things I actually care about: **CodeMind**, an AI code-review platform that catches what humans miss, and **CareConnect Suite**, a healthcare management system built to be genuinely usable, not just functional.
 
-I also run point on tech for **Vardhman Industries**, my family's glass & door hardware business in Vapi — which means I've shipped everything from marketing systems to full website rebuilds, not just app code.
-
 I care about the 10% most developers skip: the transition, the spacing, the moment an interface feels *considered* instead of assembled. If it's not cinematic, it's not shipping.
+
+Currently sharpening a macOS-style interactive portfolio, polishing PDF-report generation pipelines, and chasing clean architecture over quick hacks.
 
 </td>
 <td width="40%" valign="top">
@@ -45,11 +45,11 @@ I care about the 10% most developers skip: the transition, the spacing, the mome
 ```yaml
 role:      Full Stack Developer
 studying:  BCA
-based_in:  Vapi, Gujarat, India
+based_in:  Gujarat, India
 building:  CodeMind · CareConnect Suite
-also:      Vardhman Industries (Tech)
 milestone: 🏆 1st — NextGen Techathon '26
 obsession: premium UI, editorial typography
+mood:      shipping > planning
 ```
 
 </td>
@@ -59,7 +59,7 @@ obsession: premium UI, editorial typography
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
 </p>
 
 ## ✦ Journey So Far
@@ -69,13 +69,13 @@ obsession: premium UI, editorial typography
 <tr><td width="120"><b>Early 2026</b></td><td>Shipped a macOS-style interactive developer portfolio — draggable windows, Spotlight search, an AI terminal</td></tr>
 <tr><td width="120"><b>April 2026</b></td><td>🏆 <b>1st Place — NextGen Techathon</b></td></tr>
 <tr><td width="120"><b>Mid 2026</b></td><td>Building <b>CodeMind</b> (AI code review) and <b>CareConnect Suite</b> (healthcare platform) in parallel</td></tr>
-<tr><td width="120"><b>Ongoing</b></td><td>Rebuilding <b>Vardhman Industries'</b> digital presence — website, brand system, marketing</td></tr>
+<tr><td width="120"><b>Ongoing</b></td><td>Refining a navy/gold editorial design language across every project and repo</td></tr>
 </table>
 
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
 </p>
 
 ## ✦ Flagship Builds
@@ -87,9 +87,9 @@ obsession: premium UI, editorial typography
 ### 🧠 CodeMind
 **AI-powered code review, on demand.**
 
-Upload a ZIP or import a repo → AI parses it, flags bugs / security issues / performance bottlenecks → chat with it about the fix. Built for developers who want senior-level review without waiting on one.
+Upload a ZIP or import a repo → AI parses it, flags bugs / security issues / performance bottlenecks → chat with it about the fix. Built for developers who want senior-level review without waiting on one. Ships with a premium navy/gold PDF report generator — cover page, gradient score cards, severity badges.
 
-`Next.js` `Node.js` `FastAPI` `MongoDB` `Gemini / GPT-4`
+`Next.js` `Node.js` `FastAPI` `MongoDB` `Gemini / GPT-4` `PDFKit`
 
 [![CodeMind](https://github-readme-stats.vercel.app/api/pin/?username=ThakurDivyanshsingh-77&repo=CodeMind-AI-code-reviews-and-bug-finder-&theme=dark&hide_border=true&bg_color=05070D&title_color=D4AF37&text_color=8892A6&icon_color=D4AF37)](https://github.com/ThakurDivyanshsingh-77/CodeMind-AI-code-reviews-and-bug-finder-)
 
@@ -99,22 +99,48 @@ Upload a ZIP or import a repo → AI parses it, flags bugs / security issues / p
 ### 🏥 CareConnect Suite
 **Healthcare management, engineered right.**
 
-A full-stack system built for real clinical workflows — secure auth, structured records, clean data flow between patients and providers.
+A full-stack system built for real clinical workflows — RBAC-driven auth, doctor/appointment/department management, secure file uploads, and a full admin dashboard across seven modules.
 
-`Next.js` `Node.js` `MongoDB` `JWT`
+`Next.js` `Node.js` `MongoDB` `JWT` `Multer`
 
 [![CareConnect Suite](https://github-readme-stats.vercel.app/api/pin/?username=ThakurDivyanshsingh-77&repo=CareConnect-Suite&theme=dark&hide_border=true&bg_color=05070D&title_color=D4AF37&text_color=8892A6&icon_color=D4AF37)](https://github.com/ThakurDivyanshsingh-77/CareConnect-Suite)
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Apex Esports
+**Esports tournament management, end to end.**
+
+Full tournament engine with UPI payment verification, automatic room-credential reveal, live leaderboard, and real-time notifications — built for organizers who need it to just work on match day.
+
+`Next.js` `Node.js` `MongoDB` `Real-time`
+
+[![Apex Esports](https://github-readme-stats.vercel.app/api/pin/?username=ThakurDivyanshsingh-77&repo=Apex-Esports&theme=dark&hide_border=true&bg_color=05070D&title_color=D4AF37&text_color=8892A6&icon_color=D4AF37)](https://github.com/ThakurDivyanshsingh-77/Apex-Esports)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ macOS-Style Portfolio
+**A developer portfolio that behaves like an OS.**
+
+Draggable windows, a working Spotlight search, and an AI terminal — built on Next.js 15 with Framer Motion and Groq for the assistant layer.
+
+`Next.js 15` `Framer Motion` `react-rnd` `Groq SDK` `MongoDB`
+
+[![Portfolio OS](https://github-readme-stats.vercel.app/api/pin/?username=ThakurDivyanshsingh-77&repo=portfolio-os&theme=dark&hide_border=true&bg_color=05070D&title_color=D4AF37&text_color=8892A6&icon_color=D4AF37)](https://github.com/ThakurDivyanshsingh-77)
+
+</td>
+</tr>
 </table>
 
-> 🔧 *If either repo slug doesn't match your GitHub exactly, swap the `repo=` value in the URL.*
+> 🔧 *If a repo slug doesn't match your GitHub exactly, swap the `repo=` value in the URL.*
 
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
 </p>
 
 ## ✦ The Stack
@@ -147,7 +173,7 @@ A full-stack system built for real clinical workflows — secure auth, structure
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
 </p>
 
 ## ✦ By The Numbers
@@ -163,14 +189,33 @@ A full-stack system built for real clinical workflows — secure auth, structure
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThakurDivyanshsingh-77&theme=minimal&hide_border=true&bg_color=05070D&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF37" width="97%"/>
+<img src="https://github-readme-trophies.vercel.app/?username=ThakurDivyanshsingh-77&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="97%"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThakurDivyanshsingh-77&theme=react-dark&hide_border=true&bg_color=05070D&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF37" width="97%"/>
 
 </div>
 
 <br>
 
+<details>
+<summary align="center"><b>✦ Click to expand — Contribution Snake 🐍</b></summary>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ThakurDivyanshsingh-77/ThakurDivyanshsingh-77/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+
+<i>Runs on a GitHub Action — generates a fresh snake from your contribution graph on every commit. Add the workflow to auto-update this.</i>
+</div>
+
+</details>
+
+<br>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
 </p>
 
 ## ✦ Beyond the Code
@@ -185,8 +230,8 @@ Cinematic UI, editorial type, motion that means something — not motion for mot
 </td>
 <td width="33%" align="center">
 
-**🚪 Family Business**
-Tech lead (informally) for **Vardhman Industries** — glass & door hardware, Vapi, Gujarat.
+**🧭 Systems Thinker**
+I'd rather architect it right once than patch it five times later.
 
 </td>
 <td width="33%" align="center">
@@ -201,7 +246,7 @@ Tech lead (informally) for **Vardhman Industries** — glass & door hardware, Va
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" />
 </p>
 
 <div align="center">
@@ -216,10 +261,8 @@ Tech lead (informally) for **Vardhman Industries** — glass & door hardware, Va
 
 <br><br>
 
-<i>“Ship fast. Design sharp. Build things that feel premium.”</i>
+<i>"Ship fast. Design sharp. Build things that feel premium."</i>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:05070D,50:0A0F1F,100:05070D&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0A0F1F,100:05070D&height=120&section=footer"/>
 
 </div>
-
-
