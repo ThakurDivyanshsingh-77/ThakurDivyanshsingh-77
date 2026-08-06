@@ -1,5 +1,5 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ✦ DIVYANSH SINGH — SIGNATURE EDITION PROFILE — v2 ✦ -->
+<!-- ✦ DIVYANSH SINGH — SIGNATURE EDITION PROFILE — v3 ✦ -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
@@ -15,6 +15,15 @@
 <img src="https://img.shields.io/github/followers/ThakurDivyanshsingh-77?style=for-the-badge&color=1A0A2E&labelColor=E8C468&label=FOLLOWERS"/>
 <img src="https://img.shields.io/badge/BASED%20IN-GUJARAT%2C%20INDIA%20🇮🇳-1A0A2E?style=for-the-badge&labelColor=E8C468&color=1A0A2E"/>
 
+<br><br>
+
+<!-- 🔧 REPLACE THE # BELOW WITH YOUR REAL LINKS — these are the first thing a recruiter clicks -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1A0A2E?style=flat-square&logo=linkedin&logoColor=E8C468"/></a>
+<a href="https://github.com/ThakurDivyanshsingh-77"><img src="https://img.shields.io/badge/GitHub-1A0A2E?style=flat-square&logo=github&logoColor=E8C468"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1A0A2E?style=flat-square&logo=vercel&logoColor=E8C468"/></a>
+<a href="mailto:#"><img src="https://img.shields.io/badge/Email-1A0A2E?style=flat-square&logo=gmail&logoColor=E8C468"/></a>
+<a href="#"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-1A0A2E?style=flat-square&logo=x&logoColor=E8C468"/></a>
+
 </div>
 
 <br>
@@ -23,9 +32,22 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
 </p>
 
+## ✦ About Me
+
+I'm a **Full Stack Developer and BCA student** building software that's judged less on whether it works and more on whether it *feels* considered — the transition, the spacing, the moment an interface stops looking assembled and starts looking designed.
+
+I work end to end: architecture, backend logic, database design, and a frontend layer that doesn't look like a template. Most recently that's meant building **CodeMind**, an AI code-review tool that reads a repo like a senior engineer would, and **CareConnect Suite**, a healthcare management platform built around real clinical workflows rather than a generic CRUD demo.
+
+**Right now I'm focused on:** shipping CodeMind's PDF report engine and finishing the remaining modules on CareConnect Suite.
+**Currently learning:** deeper system-design patterns and AI-agent orchestration, so the "AI Integration" bar below stops being the newest part of the stack.
+**Career objective:** a full-stack or product-engineering role where craft in the UI is treated as seriously as correctness in the backend — and eventually, founding something of my own.
+
 <br>
-<img src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODU5MTkwMzQsIm5iZiI6MTc4NTkxODczNCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODA1VDA4MzIxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkMzFhMjIwZDI0ZGJiOTg3ZmM1NTIwMjg0Mjk3OGM0M2QzY2EzMzMzNzA5NDM4NjU5MWQxNDk5NzhmNmNmN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.jrMznD5LNLjhrOVYpaXW_9VE31CiqtDPQRV86qMYKkY"/>
-   
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
+</p>
+
 <!-- ✦ TERMINAL INTRO ✦ -->
 <table width="100%">
 <tr>
@@ -45,12 +67,6 @@ philosophy:  "the last 10% is the whole point"
 status:      shipping > planning
 ```
 
-### ✦ The Short Version
-
-I'm a **Full Stack Developer** who cares about the 10% most people skip — the transition, the spacing, the moment an interface feels *considered* instead of assembled. If it's not cinematic, it's not shipping.
-
-Right now I'm deep in **CodeMind** (AI that reviews code like a senior dev would) and **CareConnect Suite** (healthcare software that's actually usable). Somewhere in between I'm also polishing a macOS-style portfolio and an esports tournament engine.
-
 </td>
 <td width="45%" valign="top" align="center">
 
@@ -61,15 +77,6 @@ Right now I'm deep in **CodeMind** (AI that reviews code like a senior dev would
 <img src="https://img.shields.io/badge/UI%2FUX-█████████░_90%25-1A0A2E?style=flat-square&labelColor=E8C468"/><br>
 <img src="https://img.shields.io/badge/Databases-███████░░░_70%25-1A0A2E?style=flat-square&labelColor=E8C468"/><br>
 <img src="https://img.shields.io/badge/AI%20Integration-████████░░_80%25-1A0A2E?style=flat-square&labelColor=E8C468"/>
-
-<br><br>
-
-### ✦ Right Now
-
-🔨 Building `CodeMind` PDF report engine
-🏥 Shipping `CareConnect Suite` modules
-🎮 Polishing `Apex Esports` leaderboard
-📚 BCA coursework alongside it all
 
 </td>
 </tr>
@@ -164,30 +171,93 @@ Draggable windows, a working Spotlight search, and an AI terminal — built on N
 
 ## ✦ The Stack
 
-<div align="center">
+<table width="100%">
+<tr><td width="130" valign="top"><b>Languages</b></td><td>
 
-<img src="https://img.shields.io/badge/Next.js-1A0A2E?style=for-the-badge&logo=next.js&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/React-1A0A2E?style=for-the-badge&logo=react&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/TypeScript-1A0A2E?style=for-the-badge&logo=typescript&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/TailwindCSS-1A0A2E?style=for-the-badge&logo=tailwindcss&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Framer_Motion-1A0A2E?style=for-the-badge&logo=framer&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/TypeScript-1A0A2E?style=flat-square&logo=typescript&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/JavaScript-1A0A2E?style=flat-square&logo=javascript&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Python-1A0A2E?style=flat-square&logo=python&logoColor=E8C468"/>
+
+</td></tr>
+<tr><td valign="top"><b>Frontend</b></td><td>
+
+<img src="https://img.shields.io/badge/Next.js-1A0A2E?style=flat-square&logo=next.js&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/React-1A0A2E?style=flat-square&logo=react&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/TailwindCSS-1A0A2E?style=flat-square&logo=tailwindcss&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Framer_Motion-1A0A2E?style=flat-square&logo=framer&logoColor=E8C468"/>
+
+</td></tr>
+<tr><td valign="top"><b>Backend</b></td><td>
+
+<img src="https://img.shields.io/badge/Node.js-1A0A2E?style=flat-square&logo=node.js&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Express-1A0A2E?style=flat-square&logo=express&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/FastAPI-1A0A2E?style=flat-square&logo=fastapi&logoColor=E8C468"/>
+
+</td></tr>
+<tr><td valign="top"><b>Databases</b></td><td>
+
+<img src="https://img.shields.io/badge/MongoDB-1A0A2E?style=flat-square&logo=mongodb&logoColor=E8C468"/>
+
+</td></tr>
+<tr><td valign="top"><b>AI</b></td><td>
+
+<img src="https://img.shields.io/badge/Gemini-1A0A2E?style=flat-square&logo=googlegemini&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/GPT--4-1A0A2E?style=flat-square&logo=openai&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Groq-1A0A2E?style=flat-square&logo=groq&logoColor=E8C468"/>
+
+</td></tr>
+<tr><td valign="top"><b>Tools & VCS</b></td><td>
+
+<img src="https://img.shields.io/badge/Git-1A0A2E?style=flat-square&logo=git&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/GitHub-1A0A2E?style=flat-square&logo=github&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Figma-1A0A2E?style=flat-square&logo=figma&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/JWT-1A0A2E?style=flat-square&logo=jsonwebtokens&logoColor=E8C468"/>
+
+</td></tr>
+</table>
 
 <br>
 
-<img src="https://img.shields.io/badge/Node.js-1A0A2E?style=for-the-badge&logo=node.js&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Express-1A0A2E?style=for-the-badge&logo=express&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/FastAPI-1A0A2E?style=for-the-badge&logo=fastapi&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Python-1A0A2E?style=for-the-badge&logo=python&logoColor=E8C468"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
+</p>
+
+## ✦ Open Source & Collaboration
+
+I'm actively looking to contribute beyond my own repos — particularly on **developer tooling, AI-integration libraries, and design-system / UI-kit projects**, where the intersection of engineering and interface craft matters most.
+
+If you're maintaining something in that space, or building a product that needs a full-stack developer who treats UI as a first-class concern, my inbox is open.
 
 <br>
 
-<img src="https://img.shields.io/badge/MongoDB-1A0A2E?style=for-the-badge&logo=mongodb&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/JWT-1A0A2E?style=for-the-badge&logo=jsonwebtokens&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Groq-1A0A2E?style=for-the-badge&logo=groq&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Git-1A0A2E?style=for-the-badge&logo=git&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Figma-1A0A2E?style=for-the-badge&logo=figma&logoColor=E8C468"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
+</p>
 
-</div>
+## ✦ Achievements
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**🏆 1st Place**
+NextGen Techathon — April 2026
+
+</td>
+<td width="33%" align="center">
+
+**🎓 BCA**
+Full-stack projects built end-to-end alongside coursework
+
+</td>
+<td width="33%" align="center">
+
+**🎨 Design System**
+Built and shipped a signature navy/gold editorial language across every repo
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -288,11 +358,11 @@ Best commits happen after midnight.
 
 ## ✦ Let's Talk
 
-<!-- 🔧 Replace # with your real links -->
+<!-- 🔧 Replace # with your real links — same set as the hero, kept here for anyone who scrolls straight to the bottom -->
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-1A0A2E?style=for-the-badge&logo=linkedin&logoColor=E8C468"/></a>
 <a href="https://github.com/ThakurDivyanshsingh-77"><img src="https://img.shields.io/badge/GitHub-1A0A2E?style=for-the-badge&logo=github&logoColor=E8C468"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-1A0A2E?style=for-the-badge&logo=vercel&logoColor=E8C468"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-1A0A2E?style=for-the-badge&logo=gmail&logoColor=E8C468"/></a>
+<a href="mailto:#"><img src="https://img.shields.io/badge/Gmail-1A0A2E?style=for-the-badge&logo=gmail&logoColor=E8C468"/></a>
 
 <br><br>
 
