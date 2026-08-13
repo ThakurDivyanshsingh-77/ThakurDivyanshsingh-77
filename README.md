@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:0B1020,100:111827&height=120" width="100%" alt="Dark navy-to-charcoal gradient divider banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:A78BFA&height=200&section=header&animation=fadeIn&text=DIVYANSH%20SINGH&fontSize=48&fontColor=05070D&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product%20Engineer&descAlignY=58&descSize=17&descColor=0B1020" width="100%" alt="Animated waving cyan-violet gradient banner with name and title" />
 
 <br/>
 
-# DIVYANSH SINGH
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=I+build+production-minded+web+products;Where+engineering%2C+AI%2C+and+UI+meet;Shipping+fast.+Designing+sharp." alt="Animated typing text: I build production-minded web products where engineering, AI, and UI meet, shipping fast, designing sharp" />
 
-**Full Stack Developer • AI Builder • Product Engineer**
+<br/><br/>
 
-*I build production-minded web products where engineering, AI, and UI meet.*
-
-🟢 Open to Work &nbsp;·&nbsp; 📍 Gujarat, India &nbsp;·&nbsp; 🎓 BCA &nbsp;·&nbsp; 🏆 NextGen Techathon 2026 — 1st Place
+🟢 **Open to Work** &nbsp;·&nbsp; 📍 **Gujarat, India** &nbsp;·&nbsp; 🎓 **BCA** &nbsp;·&nbsp; 🏆 **NextGen Techathon 2026 — 1st Place**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77)
+[![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77)
 <!-- TODO: replace # with real LinkedIn profile URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 <!-- TODO: replace # with real portfolio URL -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=05070D)](#)
 <!-- TODO: replace # with real email address (mailto:you@example.com) -->
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
 <!-- TODO: replace # with real X (Twitter) profile URL -->
-[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=E5E7EB)](#)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ThakurDivyanshsingh-77&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -60,6 +60,8 @@ UI/UX
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:6366F1&height=40&animation=fadeIn" width="100%" alt="Thin animated indigo gradient wave divider" />
+
 ## About Me
 
 I'm a full-stack developer who enjoys turning ideas into working products — from backend architecture and database design to frontend craftsmanship that actually feels good to use. Lately I've been building AI-powered tools, integrating LLMs into real workflows, and paying close attention to the details that separate a functional product from a premium one. I care about clean system design as much as clean UI, and I like shipping things that people can actually use, not just demos.
@@ -78,15 +80,15 @@ AI-powered code review and bug finder.
 
 Upload a ZIP or repository → analyze the code → surface bugs, security issues, and performance bottlenecks → chat with an AI to fix them → export a full PDF report.
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=38BDF8)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=A78BFA)
-![Gemini](https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=googlegemini&logoColor=A78BFA)
-![GPT--4](https://img.shields.io/badge/GPT--4-111827?style=flat-square&logo=openai&logoColor=A78BFA)
-![PDFKit](https://img.shields.io/badge/PDFKit-111827?style=flat-square&logoColor=E5E7EB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
+![GPT--4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![PDFKit](https://img.shields.io/badge/PDFKit-F43F5E?style=flat-square&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-0B1020?style=flat-square&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77/CodeMind-AI-code-reviews-and-bug-finder-)
+[![Repository](https://img.shields.io/badge/Repository-38BDF8?style=flat-square&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77/CodeMind-AI-code-reviews-and-bug-finder-)
 
 </td></tr>
 <tr><td width="100%">
@@ -96,13 +98,13 @@ Healthcare management platform.
 
 Role-based access control, doctor management, appointment scheduling, department organization, secure file uploads, and an admin dashboard — built as a full operational suite rather than a single feature.
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=A78BFA)
-![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=38BDF8)
-![Multer](https://img.shields.io/badge/Multer-111827?style=flat-square&logoColor=E5E7EB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF6C37?style=flat-square&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-0B1020?style=flat-square&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77/CareConnect-Suite)
+[![Repository](https://img.shields.io/badge/Repository-38BDF8?style=flat-square&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77/CareConnect-Suite)
 
 </td></tr>
 <tr><td width="100%">
@@ -112,12 +114,12 @@ Esports tournament management platform.
 
 UPI payment verification, automated room-credential reveal, live leaderboards, and real-time notifications — built for organizers running actual competitive tournaments.
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=A78BFA)
-![Real--time](https://img.shields.io/badge/Real--time-111827?style=flat-square&logoColor=E5E7EB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Real--time](https://img.shields.io/badge/Real--time-F59E0B?style=flat-square&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-0B1020?style=flat-square&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77/Apex-Esports)
+[![Repository](https://img.shields.io/badge/Repository-38BDF8?style=flat-square&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77/Apex-Esports)
 
 </td></tr>
 <tr><td width="100%">
@@ -127,50 +129,52 @@ A macOS-style interactive developer portfolio.
 
 Draggable windows, Spotlight-style search, and a built-in AI terminal — a portfolio that behaves like an operating system instead of a static page.
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-111827?style=flat-square&logo=framer&logoColor=A78BFA)
-![react--rnd](https://img.shields.io/badge/react--rnd-111827?style=flat-square&logoColor=E5E7EB)
-![Groq SDK](https://img.shields.io/badge/Groq_SDK-111827?style=flat-square&logo=groq&logoColor=A78BFA)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![react--rnd](https://img.shields.io/badge/react--rnd-61DAFB?style=flat-square&logoColor=05070D)
+![Groq SDK](https://img.shields.io/badge/Groq_SDK-F55036?style=flat-square&logo=groq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-0B1020?style=flat-square&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77/portfolio-os)
+[![Repository](https://img.shields.io/badge/Repository-38BDF8?style=flat-square&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77/portfolio-os)
 
 </td></tr>
 </table>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:38BDF8&height=40&animation=fadeIn" width="100%" alt="Thin animated violet to cyan wave divider" />
+
 ## Tech Stack
 
 **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=05070D)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=E5E7EB)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=38BDF8)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-111827?style=for-the-badge&logo=framer&logoColor=A78BFA)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=05070D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8)
-![Express](https://img.shields.io/badge/Express-0B1020?style=for-the-badge&logo=express&logoColor=E5E7EB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=A78BFA)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **AI**
-![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=A78BFA)
-![GPT--4](https://img.shields.io/badge/GPT--4-111827?style=for-the-badge&logo=openai&logoColor=A78BFA)
-![Groq](https://img.shields.io/badge/Groq-111827?style=for-the-badge&logo=groq&logoColor=A78BFA)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GPT--4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=38BDF8)
-![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=E5E7EB)
-![Figma](https://img.shields.io/badge/Figma-0B1020?style=for-the-badge&logo=figma&logoColor=A78BFA)
-![JWT](https://img.shields.io/badge/JWT-0B1020?style=for-the-badge&logo=jsonwebtokens&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 <br/>
 
@@ -239,6 +243,8 @@ Full-stack projects built end-to-end alongside coursework.
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A78BFA&height=40&animation=fadeIn" width="100%" alt="Thin animated cyan to violet wave divider" />
+
 ## GitHub Analytics
 
 <div align="center">
@@ -249,6 +255,10 @@ Full-stack projects built end-to-end alongside coursework.
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=ThakurDivyanshsingh-77&hide_border=true&background=05070D&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" alt="Divyansh Singh's GitHub streak stats" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThakurDivyanshsingh-77&bg_color=05070D&color=38BDF8&line=6366F1&point=A78BFA&area=true&area_color=38BDF8&hide_border=true" alt="Divyansh Singh's animated GitHub contribution activity graph" width="100%" />
 
 </div>
 
@@ -315,15 +325,16 @@ Shipping working products instead of endless prototypes.
 
 Have a product idea, collaboration, or interesting engineering problem? Let's talk.
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77)
+[![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77)
 <!-- TODO: replace # with real LinkedIn profile URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 <!-- TODO: replace # with real portfolio URL -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=05070D)](#)
 <!-- TODO: replace # with real email address (mailto:you@example.com) -->
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0B1020,100:05070D&height=60" width="100%" alt="Dark charcoal-to-navy gradient footer divider" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:6366F1,100:38BDF8&height=100&animation=fadeIn&section=footer" width="100%" alt="Animated waving gradient footer banner" />
 
 </div>
