@@ -1,371 +1,329 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ✦ DIVYANSH SINGH — SIGNATURE EDITION PROFILE — v3 ✦ -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0014,35:130524,70:1A0A2E,100:0A0014&height=290&section=header&text=DIVYANSH%20SINGH&fontSize=62&fontColor=E8C468&fontAlignY=38&animation=twinkling&desc=full-stack%20developer%20%E2%80%94%20engineering%20experiences%2C%20not%20just%20features&descAlignY=58&descSize=16&descColor=B9A8D9"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=19&duration=3400&pause=1000&color=E8C468&background=00000000&center=true&vCenter=true&width=800&height=45&lines=%E2%80%9CDesign+is+not+decoration.+It's+decision-making.%E2%80%9D;Building+CodeMind+%E2%80%94+AI+that+reviews+code+like+a+senior+dev;Building+CareConnect+Suite+%E2%80%94+healthcare%2C+engineered+right;Shipping+Apex+Esports+%E2%80%94+tournaments%2C+handled;1st+Place+%E2%80%94+NextGen+Techathon+2026" alt="tagline"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070D,50:0B1020,100:111827&height=120" width="100%" alt="Dark navy-to-charcoal gradient divider banner" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-1A0A2E?style=for-the-badge&labelColor=E8C468&color=1A0A2E"/>
-<img src="https://komarev.com/ghpvc/?username=ThakurDivyanshsingh-77&style=for-the-badge&color=1A0A2E&labelColor=E8C468&label=VISITORS"/>
-<img src="https://img.shields.io/github/followers/ThakurDivyanshsingh-77?style=for-the-badge&color=1A0A2E&labelColor=E8C468&label=FOLLOWERS"/>
-<img src="https://img.shields.io/badge/BASED%20IN-GUJARAT%2C%20INDIA%20🇮🇳-1A0A2E?style=for-the-badge&labelColor=E8C468&color=1A0A2E"/>
+# DIVYANSH SINGH
 
-<br><br>
+**Full Stack Developer • AI Builder • Product Engineer**
 
-<!-- 🔧 REPLACE THE # BELOW WITH YOUR REAL LINKS — these are the first thing a recruiter clicks -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1A0A2E?style=flat-square&logo=linkedin&logoColor=E8C468"/></a>
-<a href="https://github.com/ThakurDivyanshsingh-77"><img src="https://img.shields.io/badge/GitHub-1A0A2E?style=flat-square&logo=github&logoColor=E8C468"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1A0A2E?style=flat-square&logo=vercel&logoColor=E8C468"/></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-1A0A2E?style=flat-square&logo=gmail&logoColor=E8C468"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-1A0A2E?style=flat-square&logo=x&logoColor=E8C468"/></a>
+*I build production-minded web products where engineering, AI, and UI meet.*
+
+🟢 Open to Work &nbsp;·&nbsp; 📍 Gujarat, India &nbsp;·&nbsp; 🎓 BCA &nbsp;·&nbsp; 🏆 NextGen Techathon 2026 — 1st Place
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77)
+<!-- TODO: replace # with real LinkedIn profile URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](#)
+<!-- TODO: replace # with real portfolio URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#)
+<!-- TODO: replace # with real email address (mailto:you@example.com) -->
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8)](#)
+<!-- TODO: replace # with real X (Twitter) profile URL -->
+[![X](https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=E5E7EB)](#)
 
 </div>
 
-<br>
+<br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
-
-## ✦ About Me
-
-I'm a **Full Stack Developer and BCA student** building software that's judged less on whether it works and more on whether it *feels* considered — the transition, the spacing, the moment an interface stops looking assembled and starts looking designed.
-
-I work end to end: architecture, backend logic, database design, and a frontend layer that doesn't look like a template. Most recently that's meant building **CodeMind**, an AI code-review tool that reads a repo like a senior engineer would, and **CareConnect Suite**, a healthcare management platform built around real clinical workflows rather than a generic CRUD demo.
-
-**Right now I'm focused on:** shipping CodeMind's PDF report engine and finishing the remaining modules on CareConnect Suite.
-**Currently learning:** deeper system-design patterns and AI-agent orchestration, so the "AI Integration" bar below stops being the newest part of the stack.
-**Career objective:** a full-stack or product-engineering role where craft in the UI is treated as seriously as correctness in the backend — and eventually, founding something of my own.
-
-<br>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
-
-<!-- ✦ TERMINAL INTRO ✦ -->
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="33%" valign="top">
 
-```bash
-divyansh@dev ~ % whoami
-```
-```yaml
-name:        Divyansh Singh
-role:        Full Stack Developer
-studying:    BCA
-based_in:    Gujarat, India
-currently:   Building CodeMind + CareConnect Suite
-achievement: 🏆 1st — NextGen Techathon 2026
-philosophy:  "the last 10% is the whole point"
-status:      shipping > planning
-```
+### 👤 Who I Am
+Full Stack Developer
+BCA Student
+Gujarat, India
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="33%" valign="top">
 
-### ✦ Skill Signal
+### 🛠️ Currently Building
+CodeMind
+CareConnect Suite
+Apex Esports
 
-<img src="https://img.shields.io/badge/Frontend-████████░░_80%25-1A0A2E?style=flat-square&labelColor=E8C468"/><br>
-<img src="https://img.shields.io/badge/Backend-███████░░░_70%25-1A0A2E?style=flat-square&labelColor=E8C468"/><br>
-<img src="https://img.shields.io/badge/UI%2FUX-█████████░_90%25-1A0A2E?style=flat-square&labelColor=E8C468"/><br>
-<img src="https://img.shields.io/badge/Databases-███████░░░_70%25-1A0A2E?style=flat-square&labelColor=E8C468"/><br>
-<img src="https://img.shields.io/badge/AI%20Integration-████████░░_80%25-1A0A2E?style=flat-square&labelColor=E8C468"/>
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Focus
+AI Integration
+System Design
+Product Engineering
+UI/UX
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
+## About Me
 
-## ✦ Journey So Far
+I'm a full-stack developer who enjoys turning ideas into working products — from backend architecture and database design to frontend craftsmanship that actually feels good to use. Lately I've been building AI-powered tools, integrating LLMs into real workflows, and paying close attention to the details that separate a functional product from a premium one. I care about clean system design as much as clean UI, and I like shipping things that people can actually use, not just demos.
 
-<table>
-<tr><td width="120" align="center">🎓 <b>2024–25</b></td><td>Started BCA · began building full-stack projects end-to-end — frontend, backend, database, deployment</td></tr>
-<tr><td width="120" align="center">🖥️ <b>Early '26</b></td><td>Shipped a macOS-style interactive developer portfolio — draggable windows, Spotlight search, an AI terminal</td></tr>
-<tr><td width="120" align="center">🏆 <b>April '26</b></td><td><b>1st Place — NextGen Techathon</b></td></tr>
-<tr><td width="120" align="center">⚙️ <b>Mid '26</b></td><td>Building <b>CodeMind</b> and <b>CareConnect Suite</b> in parallel, plus <b>Apex Esports</b></td></tr>
-<tr><td width="120" align="center">🎨 <b>Ongoing</b></td><td>Refining a signature navy/gold editorial design language across every repo</td></tr>
-</table>
+Currently focused on shipping useful products, improving system-design skills, and exploring AI-agent orchestration.
 
-<br>
+<br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
+## Featured Projects
 
-## ✦ Flagship Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<table width="100%">
+<tr><td width="100%">
 
 ### 🧠 CodeMind
-**AI-powered code review, on demand.**
+AI-powered code review and bug finder.
 
-Upload a ZIP or import a repo → AI parses it, flags bugs / security issues / performance bottlenecks → chat with it about the fix. Ships with a premium navy/gold PDF report generator — cover page, gradient score cards, severity badges.
+Upload a ZIP or repository → analyze the code → surface bugs, security issues, and performance bottlenecks → chat with an AI to fix them → export a full PDF report.
 
-`Next.js` `Node.js` `FastAPI` `MongoDB` `Gemini / GPT-4` `PDFKit`
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=38BDF8)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![Gemini](https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=googlegemini&logoColor=A78BFA)
+![GPT--4](https://img.shields.io/badge/GPT--4-111827?style=flat-square&logo=openai&logoColor=A78BFA)
+![PDFKit](https://img.shields.io/badge/PDFKit-111827?style=flat-square&logoColor=E5E7EB)
 
-[![CodeMind](https://github-readme-stats.vercel.app/api/pin/?username=ThakurDivyanshsingh-77&repo=CodeMind-AI-code-reviews-and-bug-finder-&theme=radical&hide_border=true&bg_color=1A0A2E&title_color=E8C468&text_color=B9A8D9&icon_color=E8C468)](https://github.com/ThakurDivyanshsingh-77/CodeMind-AI-code-reviews-and-bug-finder-)
+[![Repository](https://img.shields.io/badge/Repository-0B1020?style=flat-square&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77/CodeMind-AI-code-reviews-and-bug-finder-)
 
-</td>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td width="100%">
 
 ### 🏥 CareConnect Suite
-**Healthcare management, engineered right.**
+Healthcare management platform.
 
-A full-stack system built for real clinical workflows — RBAC-driven auth, doctor/appointment/department management, secure file uploads, and a full admin dashboard across seven modules.
+Role-based access control, doctor management, appointment scheduling, department organization, secure file uploads, and an admin dashboard — built as a full operational suite rather than a single feature.
 
-`Next.js` `Node.js` `MongoDB` `JWT` `Multer`
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![JWT](https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=38BDF8)
+![Multer](https://img.shields.io/badge/Multer-111827?style=flat-square&logoColor=E5E7EB)
 
-[![CareConnect Suite](https://github-readme-stats.vercel.app/api/pin/?username=ThakurDivyanshsingh-77&repo=CareConnect-Suite&theme=radical&hide_border=true&bg_color=1A0A2E&title_color=E8C468&text_color=B9A8D9&icon_color=E8C468)](https://github.com/ThakurDivyanshsingh-77/CareConnect-Suite)
+[![Repository](https://img.shields.io/badge/Repository-0B1020?style=flat-square&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77/CareConnect-Suite)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</td></tr>
+<tr><td width="100%">
 
 ### 🎮 Apex Esports
-**Esports tournament management, end to end.**
+Esports tournament management platform.
 
-Full tournament engine with UPI payment verification, automatic room-credential reveal, live leaderboard, and real-time notifications — built for organizers who need it to just work on match day.
+UPI payment verification, automated room-credential reveal, live leaderboards, and real-time notifications — built for organizers running actual competitive tournaments.
 
-`Next.js` `Node.js` `MongoDB` `Real-time`
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=38BDF8)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![Real--time](https://img.shields.io/badge/Real--time-111827?style=flat-square&logoColor=E5E7EB)
 
-[![Apex Esports](https://github-readme-stats.vercel.app/api/pin/?username=ThakurDivyanshsingh-77&repo=Apex-Esports&theme=radical&hide_border=true&bg_color=1A0A2E&title_color=E8C468&text_color=B9A8D9&icon_color=E8C468)](https://github.com/ThakurDivyanshsingh-77/Apex-Esports)
+[![Repository](https://img.shields.io/badge/Repository-0B1020?style=flat-square&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77/Apex-Esports)
+
+</td></tr>
+<tr><td width="100%">
+
+### 🖥️ Portfolio OS
+A macOS-style interactive developer portfolio.
+
+Draggable windows, Spotlight-style search, and a built-in AI terminal — a portfolio that behaves like an operating system instead of a static page.
+
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=38BDF8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-111827?style=flat-square&logo=framer&logoColor=A78BFA)
+![react--rnd](https://img.shields.io/badge/react--rnd-111827?style=flat-square&logoColor=E5E7EB)
+![Groq SDK](https://img.shields.io/badge/Groq_SDK-111827?style=flat-square&logo=groq&logoColor=A78BFA)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=A78BFA)
+
+[![Repository](https://img.shields.io/badge/Repository-0B1020?style=flat-square&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77/portfolio-os)
+
+</td></tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=38BDF8)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=E5E7EB)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=38BDF8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-111827?style=for-the-badge&logo=framer&logoColor=A78BFA)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8)
+![Express](https://img.shields.io/badge/Express-0B1020?style=for-the-badge&logo=express&logoColor=E5E7EB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=38BDF8)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=A78BFA)
+
+**AI**
+![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=A78BFA)
+![GPT--4](https://img.shields.io/badge/GPT--4-111827?style=for-the-badge&logo=openai&logoColor=A78BFA)
+![Groq](https://img.shields.io/badge/Groq-111827?style=for-the-badge&logo=groq&logoColor=A78BFA)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=38BDF8)
+![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=E5E7EB)
+![Figma](https://img.shields.io/badge/Figma-0B1020?style=for-the-badge&logo=figma&logoColor=A78BFA)
+![JWT](https://img.shields.io/badge/JWT-0B1020?style=for-the-badge&logo=jsonwebtokens&logoColor=38BDF8)
+
+<br/>
+
+## Currently Building
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**01 — CodeMind**
+AI-powered code review + PDF reporting
+
+</td>
+<td width="33%" valign="top">
+
+**02 — CareConnect Suite**
+Healthcare workflow management
+
+</td>
+<td width="33%" valign="top">
+
+**03 — Apex Esports**
+Tournament management + real-time systems
+
+</td>
+</tr>
+</table>
+
+**Learning**
+- System Design
+- AI Agent Orchestration
+
+<br/>
+
+## Journey
+
+| When | What |
+|---|---|
+| 2024 – 2025 | Started BCA and began building full-stack projects. |
+| Early 2026 | Built a macOS-style interactive developer portfolio. |
+| April 2026 | 🏆 1st Place — NextGen Techathon. |
+| Mid 2026 | Building CodeMind, CareConnect Suite, and Apex Esports. |
+| Ongoing | Improving system design, AI integration, and product UI. |
+
+<br/>
+
+## Achievements
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🏆 1st Place**
+NextGen Techathon 2026
+April 2026
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ macOS-Style Portfolio
-**A developer portfolio that behaves like an OS.**
-
-Draggable windows, a working Spotlight search, and an AI terminal — built on Next.js 15 with Framer Motion and Groq for the assistant layer.
-
-`Next.js 15` `Framer Motion` `react-rnd` `Groq SDK` `MongoDB`
-
-[![Portfolio OS](https://github-readme-stats.vercel.app/api/pin/?username=ThakurDivyanshsingh-77&repo=portfolio-os&theme=radical&hide_border=true&bg_color=1A0A2E&title_color=E8C468&text_color=B9A8D9&icon_color=E8C468)](https://github.com/ThakurDivyanshsingh-77)
-
-</td>
-</tr>
-</table>
-
-> 🔧 *If a repo slug doesn't match your GitHub exactly, swap the `repo=` value in the URL.*
-
-<br>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
-
-## ✦ The Stack
-
-<table width="100%">
-<tr><td width="130" valign="top"><b>Languages</b></td><td>
-
-<img src="https://img.shields.io/badge/TypeScript-1A0A2E?style=flat-square&logo=typescript&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/JavaScript-1A0A2E?style=flat-square&logo=javascript&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Python-1A0A2E?style=flat-square&logo=python&logoColor=E8C468"/>
-
-</td></tr>
-<tr><td valign="top"><b>Frontend</b></td><td>
-
-<img src="https://img.shields.io/badge/Next.js-1A0A2E?style=flat-square&logo=next.js&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/React-1A0A2E?style=flat-square&logo=react&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/TailwindCSS-1A0A2E?style=flat-square&logo=tailwindcss&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Framer_Motion-1A0A2E?style=flat-square&logo=framer&logoColor=E8C468"/>
-
-</td></tr>
-<tr><td valign="top"><b>Backend</b></td><td>
-
-<img src="https://img.shields.io/badge/Node.js-1A0A2E?style=flat-square&logo=node.js&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Express-1A0A2E?style=flat-square&logo=express&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/FastAPI-1A0A2E?style=flat-square&logo=fastapi&logoColor=E8C468"/>
-
-</td></tr>
-<tr><td valign="top"><b>Databases</b></td><td>
-
-<img src="https://img.shields.io/badge/MongoDB-1A0A2E?style=flat-square&logo=mongodb&logoColor=E8C468"/>
-
-</td></tr>
-<tr><td valign="top"><b>AI</b></td><td>
-
-<img src="https://img.shields.io/badge/Gemini-1A0A2E?style=flat-square&logo=googlegemini&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/GPT--4-1A0A2E?style=flat-square&logo=openai&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Groq-1A0A2E?style=flat-square&logo=groq&logoColor=E8C468"/>
-
-</td></tr>
-<tr><td valign="top"><b>Tools & VCS</b></td><td>
-
-<img src="https://img.shields.io/badge/Git-1A0A2E?style=flat-square&logo=git&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/GitHub-1A0A2E?style=flat-square&logo=github&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Figma-1A0A2E?style=flat-square&logo=figma&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/JWT-1A0A2E?style=flat-square&logo=jsonwebtokens&logoColor=E8C468"/>
-
-</td></tr>
-</table>
-
-<br>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
-
-## ✦ Open Source & Collaboration
-
-I'm actively looking to contribute beyond my own repos — particularly on **developer tooling, AI-integration libraries, and design-system / UI-kit projects**, where the intersection of engineering and interface craft matters most.
-
-If you're maintaining something in that space, or building a product that needs a full-stack developer who treats UI as a first-class concern, my inbox is open.
-
-<br>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
-
-## ✦ Achievements
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-**🏆 1st Place**
-NextGen Techathon — April 2026
-
-</td>
-<td width="33%" align="center">
-
 **🎓 BCA**
-Full-stack projects built end-to-end alongside coursework
-
-</td>
-<td width="33%" align="center">
-
-**🎨 Design System**
-Built and shipped a signature navy/gold editorial language across every repo
+Full-stack projects built end-to-end alongside coursework.
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
-
-## ✦ By The Numbers
+## GitHub Analytics
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ThakurDivyanshsingh-77&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&bg_color=1A0A2E&title_color=E8C468&icon_color=E8C468&text_color=B9A8D9&ring_color=E8C468"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurDivyanshsingh-77&layout=compact&hide_border=true&theme=radical&bg_color=1A0A2E&title_color=E8C468&text_color=B9A8D9&langs_count=6&card_width=320"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ThakurDivyanshsingh-77&show_icons=true&hide_border=true&bg_color=05070D&title_color=38BDF8&icon_color=A78BFA&text_color=E5E7EB" alt="Divyansh Singh's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurDivyanshsingh-77&layout=compact&hide_border=true&bg_color=05070D&title_color=38BDF8&text_color=E5E7EB" alt="Divyansh Singh's most used languages" height="165" />
 
-<br>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThakurDivyanshsingh-77&hide_border=true&background=1A0A2E&ring=E8C468&fire=E8C468&currStreakLabel=E8C468&sideLabels=B9A8D9&dates=B9A8D9&currStreakNum=ffffff&sideNums=ffffff" height="175em"/>
-
-<br>
-
-<img src="https://github-readme-trophies.vercel.app/?username=ThakurDivyanshsingh-77&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="97%"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThakurDivyanshsingh-77&theme=nord&hide_border=true&bg_color=1A0A2E&color=E8C468&line=E8C468&point=ffffff&area=true&area_color=E8C468" width="97%"/>
+<img src="https://streak-stats.demolab.com/?user=ThakurDivyanshsingh-77&hide_border=true&background=05070D&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" alt="Divyansh Singh's GitHub streak stats" height="165" />
 
 </div>
-
-<br>
 
 <details>
-<summary align="center"><b>✦ Click to expand — Contribution Snake 🐍</b></summary>
+<summary><b>Contribution Activity (snake)</b></summary>
+<br/>
 
-<br>
+<img src="https://raw.githubusercontent.com/ThakurDivyanshsingh-77/ThakurDivyanshsingh-77/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/ThakurDivyanshsingh-77/ThakurDivyanshsingh-77/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-
-<i>Runs on a GitHub Action — generates a fresh snake from the contribution graph on every commit.</i>
-</div>
+*Generated automatically via GitHub Actions.*
 
 </details>
 
-<br>
+<br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
+## Open Source & Collaboration
 
-## ✦ Beyond the Code
+Interested in contributing to developer tooling, AI integrations, design systems, and UI libraries — and always open to collaborating on full-stack products with people who care about the details.
+
+<br/>
+
+## Beyond Code
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-**🎬 Design Obsessed**
-Cinematic UI, editorial type, motion that means something.
-
-</td>
-<td width="25%" align="center">
-
-**🧭 Systems Thinker**
-Architect it right once, not patch it five times later.
+**Design**
+Cinematic UI, thoughtful motion, and strong visual hierarchy.
 
 </td>
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-**🏆 Competitive Builder**
-1st place, NextGen Techathon 2026.
+**Systems**
+Architecture before unnecessary complexity.
 
 </td>
-<td width="25%" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**🌙 Night Owl**
-Best commits happen after midnight.
+**Building**
+Shipping working products instead of endless prototypes.
+
+</td>
+<td width="50%" valign="top">
+
+**Competition**
+1st place at NextGen Techathon 2026.
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
+
+> "Ship fast. Design sharp. Build things that feel premium — the polish is the product."
+
+<br/>
 
 <div align="center">
 
-### ✦ A Line I Build By
+## Let's Build Something
 
-> *"Ship fast. Design sharp. Build things that feel premium — the polish is the product."*
+Have a product idea, collaboration, or interesting engineering problem? Let's talk.
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=E5E7EB)](https://github.com/ThakurDivyanshsingh-77)
+<!-- TODO: replace # with real LinkedIn profile URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](#)
+<!-- TODO: replace # with real portfolio URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA)](#)
+<!-- TODO: replace # with real email address (mailto:you@example.com) -->
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8)](#)
 
-<br>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,21&height=3&width=1000" />
-</p>
-
-<div align="center">
-
-## ✦ Let's Talk
-
-<!-- 🔧 Replace # with your real links — same set as the hero, kept here for anyone who scrolls straight to the bottom -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1A0A2E?style=for-the-badge&logo=linkedin&logoColor=E8C468"/></a>
-<a href="https://github.com/ThakurDivyanshsingh-77"><img src="https://img.shields.io/badge/GitHub-1A0A2E?style=for-the-badge&logo=github&logoColor=E8C468"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1A0A2E?style=for-the-badge&logo=vercel&logoColor=E8C468"/></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Gmail-1A0A2E?style=for-the-badge&logo=gmail&logoColor=E8C468"/></a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0014,35:130524,70:1A0A2E,100:0A0014&height=130&section=footer"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:0B1020,100:05070D&height=60" width="100%" alt="Dark charcoal-to-navy gradient footer divider" />
 
 </div>
