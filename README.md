@@ -1,305 +1,42 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:A78BFA&height=200&section=header&animation=fadeIn&text=DIVYANSH%20SINGH&fontSize=48&fontColor=05070D&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Product%20Engineer&descAlignY=58&descSize=17&descColor=0B1020" width="100%" alt="Animated waving cyan-violet gradient banner with name and title" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakurdivyanshsingh-77&label=Profile%20views&color=0e75b6&style=flat" alt="thakurdivyanshsingh-77" /> </p>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakurdivyanshsingh-77" alt="thakurdivyanshsingh-77" /></a> </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=I+build+production-minded+web+products;Where+engineering%2C+AI%2C+and+UI+meet;Shipping+fast.+Designing+sharp." alt="Animated typing text: I build production-minded web products where engineering, AI, and UI meet, shipping fast, designing sharp" />
+<p align="left"> <a href="https://twitter.com/@singhdivyansh77" target="blank"><img src="https://img.shields.io/twitter/follow/@singhdivyansh77?logo=twitter&style=for-the-badge" alt="@singhdivyansh77" /></a> </p>
 
-<br/><br/>
+- 🔭 I’m currently working on [vibespace](https://iconic-6-8da2d.web.app/)
 
-🟢 **Open to Work** &nbsp;·&nbsp; 📍 **Gujarat, India** &nbsp;·&nbsp; 🎓 **BCA** &nbsp;·&nbsp; 🏆 **NextGen Techathon 2026 — 1st Place**
+- 🌱 I’m currently learning **React ,Php,Angular**
 
-<br/>
+- 👯 I’m looking to collaborate on **student db**
 
-[![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77)
-<!-- TODO: replace # with real LinkedIn profile URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-<!-- TODO: replace # with real portfolio URL -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=05070D)](#)
-<!-- TODO: replace # with real email address (mailto:you@example.com) -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-<!-- TODO: replace # with real X (Twitter) profile URL -->
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+- 💬 Ask me about **react , php, mongodb**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ThakurDivyanshsingh-77&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+- 📫 How to reach me **divyanshthakur.2251@gmail.com**
 
-</div>
+- ⚡ Fun fact **I am also play a games**
 
-<br/>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/banna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="banna" height="30" width="40" /></a>
+<a href="https://twitter.com/@singhdivyansh77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@singhdivyansh77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thakur divyansh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakur divyansh singh" height="30" width="40" /></a>
+<a href="https://fb.com/दिव्यांश सिंह भारद्वाज" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="दिव्यांश सिंह भारद्वाज" height="30" width="40" /></a>
+<a href="https://instagram.com/__the.thakur__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__the.thakur__" height="30" width="40" /></a>
+</p>
 
-### 👤 Who I Am
-Full Stack Developer
-BCA Student
-Gujarat, India
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-</td>
-<td width="33%" valign="top">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakurdivyanshsingh-77&show_icons=true&locale=en&layout=compact" alt="thakurdivyanshsingh-77" /></p>
 
-### 🛠️ Currently Building
-CodeMind
-CareConnect Suite
-Apex Esports
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakurdivyanshsingh-77&show_icons=true&locale=en" alt="thakurdivyanshsingh-77" /></p>
 
-</td>
-<td width="33%" valign="top">
-
-### 🎯 Focus
-AI Integration
-System Design
-Product Engineering
-UI/UX
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:6366F1&height=40&animation=fadeIn" width="100%" alt="Thin animated indigo gradient wave divider" />
-
-## About Me
-
-I'm a full-stack developer who enjoys turning ideas into working products — from backend architecture and database design to frontend craftsmanship that actually feels good to use. Lately I've been building AI-powered tools, integrating LLMs into real workflows, and paying close attention to the details that separate a functional product from a premium one. I care about clean system design as much as clean UI, and I like shipping things that people can actually use, not just demos.
-
-Currently focused on shipping useful products, and leveling up in **system design** and **AI-agent orchestration**.
-
-<br/>
-
-## Featured Projects
-
-<table width="100%">
-<tr><td width="100%">
-
-### 🧠 CodeMind
-AI-powered code review and bug finder.
-
-Upload a ZIP or repository → analyze the code → surface bugs, security issues, and performance bottlenecks → chat with an AI to fix them → export a full PDF report.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
-![GPT--4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![PDFKit](https://img.shields.io/badge/PDFKit-F43F5E?style=flat-square&logoColor=white)
-
-[![Repository](https://img.shields.io/badge/Repository-38BDF8?style=flat-square&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77/CodeMind-AI-code-reviews-and-bug-finder-)
-
-</td></tr>
-<tr><td width="100%">
-
-### 🏥 CareConnect Suite
-Healthcare management platform.
-
-Role-based access control, doctor management, appointment scheduling, department organization, secure file uploads, and an admin dashboard — built as a full operational suite rather than a single feature.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-FF6C37?style=flat-square&logoColor=white)
-
-[![Repository](https://img.shields.io/badge/Repository-38BDF8?style=flat-square&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77/CareConnect-Suite)
-
-</td></tr>
-<tr><td width="100%">
-
-### 🎮 Apex Esports
-Esports tournament management platform.
-
-UPI payment verification, automated room-credential reveal, live leaderboards, and real-time notifications — built for organizers running actual competitive tournaments.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Real--time](https://img.shields.io/badge/Real--time-F59E0B?style=flat-square&logoColor=white)
-
-[![Repository](https://img.shields.io/badge/Repository-38BDF8?style=flat-square&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77/Apex-Esports)
-
-</td></tr>
-<tr><td width="100%">
-
-### 🖥️ Portfolio OS
-A macOS-style interactive developer portfolio.
-
-Draggable windows, Spotlight-style search, and a built-in AI terminal — a portfolio that behaves like an operating system instead of a static page.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![react--rnd](https://img.shields.io/badge/react--rnd-61DAFB?style=flat-square&logoColor=05070D)
-![Groq SDK](https://img.shields.io/badge/Groq_SDK-F55036?style=flat-square&logo=groq&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[![Repository](https://img.shields.io/badge/Repository-38BDF8?style=flat-square&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77/portfolio-os)
-
-</td></tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,100:38BDF8&height=40&animation=fadeIn" width="100%" alt="Thin animated violet to cyan wave divider" />
-
-## Tech Stack
-
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=05070D)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=05070D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**AI**
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![GPT--4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-<br/>
-
-## Journey
-
-| When | What |
-|---|---|
-| 2024 – 2025 | Started BCA and began building full-stack projects. |
-| Early 2026 | Built a macOS-style interactive developer portfolio. |
-| April 2026 | 🏆 1st Place — NextGen Techathon. |
-| Mid 2026 | Building CodeMind, CareConnect Suite, and Apex Esports. |
-| Ongoing | Improving system design, AI integration, and product UI. |
-
-<br/>
-
-## Achievements
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🏆 1st Place**
-NextGen Techathon 2026
-April 2026
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 BCA**
-Full-stack projects built end-to-end alongside coursework.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A78BFA&height=40&animation=fadeIn" width="100%" alt="Thin animated cyan to violet wave divider" />
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ThakurDivyanshsingh-77&show_icons=true&hide_border=true&bg_color=05070D&title_color=38BDF8&icon_color=A78BFA&text_color=E5E7EB" alt="Divyansh Singh's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakurDivyanshsingh-77&layout=compact&hide_border=true&bg_color=05070D&title_color=38BDF8&text_color=E5E7EB" alt="Divyansh Singh's most used languages" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ThakurDivyanshsingh-77&hide_border=true&background=05070D&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" alt="Divyansh Singh's GitHub streak stats" height="165" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ThakurDivyanshsingh-77&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="Divyansh Singh's GitHub trophies" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThakurDivyanshsingh-77&bg_color=05070D&color=38BDF8&line=6366F1&point=A78BFA&area=true&area_color=38BDF8&hide_border=true" alt="Divyansh Singh's animated GitHub contribution activity graph" width="100%" />
-
-</div>
-
-<details>
-<summary><b>Contribution Activity (snake)</b></summary>
-<br/>
-
-<img src="https://raw.githubusercontent.com/ThakurDivyanshsingh-77/ThakurDivyanshsingh-77/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-
-*Generated automatically via GitHub Actions — requires the `snake.yml` workflow to be added to this repo (see setup steps).*
-
-</details>
-
-<br/>
-
-## Open Source & Collaboration
-
-Interested in contributing to developer tooling, AI integrations, design systems, and UI libraries — and always open to collaborating on full-stack products with people who care about the details.
-
-<br/>
-
-## Beyond Code
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Design**
-Cinematic UI, thoughtful motion, and strong visual hierarchy.
-
-</td>
-<td width="33%" valign="top">
-
-**Systems**
-Architecture before unnecessary complexity.
-
-</td>
-<td width="33%" valign="top">
-
-**Building**
-Shipping working products instead of endless prototypes.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> "Ship fast. Design sharp. Build things that feel premium — the polish is the product."
-
-<br/>
-
-<div align="center">
-
-## Let's Build Something
-
-Have a product idea, collaboration, or interesting engineering problem? Let's talk.
-
-[![GitHub](https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=05070D)](https://github.com/ThakurDivyanshsingh-77)
-<!-- TODO: replace # with real LinkedIn profile URL -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-<!-- TODO: replace # with real portfolio URL -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=05070D)](#)
-<!-- TODO: replace # with real email address (mailto:you@example.com) -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:6366F1,100:38BDF8&height=100&animation=fadeIn&section=footer" width="100%" alt="Animated waving gradient footer banner" />
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakurdivyanshsingh-77&" alt="thakurdivyanshsingh-77" /></p>
